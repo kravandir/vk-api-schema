@@ -1686,7 +1686,8 @@
         "poll",
         "call",
         "graffiti",
-        "audio_message"
+        "audio_message",
+        "mini_app"
       ]
     },
     "messages_message_request_data": {
